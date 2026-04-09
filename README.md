@@ -1,2 +1,2 @@
 # LegitSenseOffsets
-offsets for NEW private LegitSense Update
+offsets for NEW LegitSense Update
