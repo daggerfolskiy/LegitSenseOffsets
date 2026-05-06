@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-04-23 16:45:00.688919800 UTC
+// 2026-05-06 18:50:59.448093600 UTC
 
 pub const cs2_dumper = struct {
     pub const schemas = struct {
@@ -8,8 +8,9 @@ pub const cs2_dumper = struct {
         // Enum count: 0
         pub const networksystem_dll = struct {
             // Parent: None
-            // Field count: 0
+            // Field count: 1
             pub const ChangeAccessorFieldPathIndex_t = struct {
+                pub const m_Value: usize = 0x0; // int32
             };
         };
     };
